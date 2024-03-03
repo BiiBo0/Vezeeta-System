@@ -12,14 +12,15 @@
  Nrmeen Araby Kamel  
  
 # Doctor's privileges’:
-⦁ Add available time 
-⦁ Edit available time 
-⦁ Remove available time 
-⦁ Display available time 
-⦁ View patients with appointments 
-⦁ Edit profile 
-⦁ View profile 
-⦁ Log out 
+  ⦁ Add available time
+  ⦁ Edit available time
+  ⦁ Remove available time
+  ⦁ Display available time
+  ⦁ View patients with appointments
+  ⦁ Edit profile
+  ⦁ View profile
+  ⦁ Log out
+  
 # Patient's privileges’:
 ⦁ Booking an appointment by certain day name or date  
 ⦁ Searching for a doctor by username 
